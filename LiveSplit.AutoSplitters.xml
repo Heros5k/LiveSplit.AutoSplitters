@@ -10264,6 +10264,10 @@
     <AutoSplitter>
         <Games>
             <Game>Return to Castle Wolfenstein</Game>
+            <Game>Return to Castle Wolfenstein Category Extensions</Game>
+            <Game>RealRTCW</Game>
+            <Game>Return to Castle Wolfenstein SP Maps</Game>
+            <Game>Wolfenstein: Enemy Territory Single-Player & Cooperative</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Heros5k/rtcwASL/main/rtcw.asl</URL>
